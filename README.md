@@ -53,5 +53,8 @@ Framer – highly interactive web prototypes with production‑like feel.
 
 A typical tool flow goes from research and wireframes (e.g., Balsamiq/Whimsical) to UI design and prototyping (Figma/XD/Sketch/Penpot/Framer) and finally to user testing and developer handoff.
 
+## Output: 
+[Tanessha Kannan expt1.pdf](https://github.com/user-attachments/files/28622158/Tanessha.Kannan.expt1.pdf)
+
 ## Result: 
 Thus the documented flows and principles can be referenced when designing or reviewing UI/UX projects.
